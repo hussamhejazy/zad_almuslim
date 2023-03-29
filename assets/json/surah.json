@@ -1,0 +1,2431 @@
+{
+  "surah": [
+    {
+      "place": "Mecca",
+      "placeAr": "مكة المكرمة",
+      "type": "1",
+      "typeAr": "مكية",
+      "count": 7,
+      "title": "Al-Fatiha",
+      "titleAr": "الفاتحة",
+      "index": 1,
+      "page": 1,
+      "juz": [
+        {
+          "index": 1,
+          "verse": {
+            "start": "1",
+            "end": "7"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Medina",
+      "placeAr": "المدينة المنورة",
+      "type": "2",
+      "typeAr": "مدنية",
+      "count": 286,
+      "title": "Al-Baqara",
+      "titleAr": "البقرة",
+      "index": 2,
+      "page": 2,
+      "juz": [
+        {
+          "index": 1,
+          "verse": {
+            "start": "1",
+            "end": "141"
+          }
+        },
+        {
+          "index": 2,
+          "verse": {
+            "start": "142",
+            "end": "252"
+          }
+        },
+        {
+          "index": 3,
+          "verse": {
+            "start": "253",
+            "end": "286"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Medina",
+      "placeAr": "المدينة المنورة",
+      "type": "2",
+      "typeAr": "مدنية",
+      "count": 200,
+      "title": "Aal-Imran",
+      "titleAr": "آل عمران",
+      "index": 3,
+      "page": 50,
+      "juz": [
+        {
+          "index": 3,
+          "verse": {
+            "start": "1",
+            "end": "92"
+          }
+        },
+        {
+          "index": 4,
+          "verse": {
+            "start": "93",
+            "end": "200"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Medina",
+      "placeAr": "المدينة المنورة",
+      "type": "2",
+      "typeAr": "مدنية",
+      "count": 176,
+      "title": "An-Nisaa'",
+      "titleAr": "النساء",
+      "index": 4,
+      "page": 77,
+      "juz": [
+        {
+          "index": 4,
+          "verse": {
+            "start": "1",
+            "end": "23"
+          }
+        },
+        {
+          "index": 5,
+          "verse": {
+            "start": "24",
+            "end": "147"
+          }
+        },
+        {
+          "index": 6,
+          "verse": {
+            "start": "148",
+            "end": "176"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Medina",
+      "placeAr": "المدينة المنورة",
+      "type": "2",
+      "typeAr": "مدنية",
+      "count": 120,
+      "title": "Al-Ma'ida",
+      "titleAr": "المائدة",
+      "index": 5,
+      "page": 106,
+      "juz": [
+        {
+          "index": 6,
+          "verse": {
+            "start": "1",
+            "end": "81"
+          }
+        },
+        {
+          "index": 7,
+          "verse": {
+            "start": "82",
+            "end": "120"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Mecca",
+      "placeAr": "مكة المكرمة",
+      "type": "1",
+      "typeAr": "مكية",
+      "count": 165,
+      "title": "Al-An'am",
+      "titleAr": "الأنعام",
+      "index": 6,
+      "page": 128,
+      "juz": [
+        {
+          "index": 7,
+          "verse": {
+            "start": "1",
+            "end": "110"
+          }
+        },
+        {
+          "index": 8,
+          "verse": {
+            "start": "111",
+            "end": "165"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Mecca",
+      "placeAr": "مكة المكرمة",
+      "type": "1",
+      "typeAr": "مكية",
+      "count": 206,
+      "title": "Al-A'raf",
+      "titleAr": "الأعراف",
+      "index": 7,
+      "page": 151,
+      "juz": [
+        {
+          "index": 8,
+          "verse": {
+            "start": "1",
+            "end": "87"
+          }
+        },
+        {
+          "index": 9,
+          "verse": {
+            "start": "88",
+            "end": "206"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Medina",
+      "placeAr": "المدينة المنورة",
+      "type": "2",
+      "typeAr": "مدنية",
+      "count": 75,
+      "title": "Al-Anfal",
+      "titleAr": "الأنفال",
+      "index": 8,
+      "page": 177,
+      "juz": [
+        {
+          "index": 9,
+          "verse": {
+            "start": "1",
+            "end": "40"
+          }
+        },
+        {
+          "index": 10,
+          "verse": {
+            "start": "41",
+            "end": "75"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Medina",
+      "placeAr": "المدينة المنورة",
+      "type": "2",
+      "typeAr": "مدنية",
+      "count": 129,
+      "title": "Al-Tawba",
+      "titleAr": "التوبة",
+      "index": 9,
+      "page": 187,
+      "juz": [
+        {
+          "index": 10,
+          "verse": {
+            "start": "1",
+            "end": "92"
+          }
+        },
+        {
+          "index": 11,
+          "verse": {
+            "start": "93",
+            "end": "129"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Mecca",
+      "placeAr": "مكة المكرمة",
+      "type": "1",
+      "typeAr": "مكية",
+      "count": 109,
+      "title": "Yunus",
+      "titleAr": "يونس",
+      "index": 10,
+      "page": 208,
+      "juz": [
+        {
+          "index": 11,
+          "verse": {
+            "start": "1",
+            "end": "109"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Mecca",
+      "placeAr": "مكة المكرمة",
+      "type": "1",
+      "typeAr": "مكية",
+      "count": 123,
+      "title": "Hud",
+      "titleAr": "هود",
+      "index": 11,
+      "page": 221,
+      "juz": [
+        {
+          "index": 11,
+          "verse": {
+            "start": "1",
+            "end": "5"
+          }
+        },
+        {
+          "index": 12,
+          "verse": {
+            "start": "6",
+            "end": "123"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Mecca",
+      "placeAr": "مكة المكرمة",
+      "type": "1",
+      "typeAr": "مكية",
+      "count": 111,
+      "title": "Yusuf",
+      "titleAr": "يوسف",
+      "index": 12,
+      "page": 235,
+      "juz": [
+        {
+          "index": 12,
+          "verse": {
+            "start": "1",
+            "end": "52"
+          }
+        },
+        {
+          "index": 13,
+          "verse": {
+            "start": "53",
+            "end": "111"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Medina",
+      "placeAr": "المدينة المنورة",
+      "type": "2",
+      "typeAr": "مدنية",
+      "count": 43,
+      "title": "Ar-Ra'd",
+      "titleAr": "الرعد",
+      "index": 13,
+      "page": 249,
+      "juz": [
+        {
+          "index": 13,
+          "verse": {
+            "start": "1",
+            "end": "43"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Mecca",
+      "placeAr": "مكة المكرمة",
+      "type": "1",
+      "typeAr": "مكية",
+      "count": 52,
+      "title": "Ibrahim",
+      "titleAr": "إبراهيم",
+      "index": 14,
+      "page": 255,
+      "juz": [
+        {
+          "index": 13,
+          "verse": {
+            "start": "1",
+            "end": "52"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Mecca",
+      "placeAr": "مكة المكرمة",
+      "type": "1",
+      "typeAr": "مكية",
+      "count": 99,
+      "title": "Al-Hijr",
+      "titleAr": "الحجر",
+      "index": 15,
+      "page": 262,
+      "juz": [
+        {
+          "index": 14,
+          "verse": {
+            "start": "1",
+            "end": "99"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Mecca",
+      "placeAr": "مكة المكرمة",
+      "type": "1",
+      "typeAr": "مكية",
+      "count": 128,
+      "title": "An-Nahl",
+      "titleAr": "النحل",
+      "index": 16,
+      "page": 267,
+      "juz": [
+        {
+          "index": 14,
+          "verse": {
+            "start": "1",
+            "end": "128"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Mecca",
+      "placeAr": "مكة المكرمة",
+      "type": "1",
+      "typeAr": "مكية",
+      "count": 111,
+      "title": "Al-Israa",
+      "titleAr": "الإسراء",
+      "index": 17,
+      "page": 282,
+      "juz": [
+        {
+          "index": 15,
+          "verse": {
+            "start": "1",
+            "end": "111"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Mecca",
+      "placeAr": "مكة المكرمة",
+      "type": "1",
+      "typeAr": "مكية",
+      "count": 110,
+      "title": "Al-Kahf",
+      "titleAr": "الكهف",
+      "index": 18,
+      "page": 293,
+      "juz": [
+        {
+          "index": 15,
+          "verse": {
+            "start": "1",
+            "end": "74"
+          }
+        },
+        {
+          "index": 16,
+          "verse": {
+            "start": "75",
+            "end": "110"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Mecca",
+      "placeAr": "مكة المكرمة",
+      "type": "1",
+      "typeAr": "مكية",
+      "count": 98,
+      "title": "Maryam",
+      "titleAr": "مريم",
+      "index": 19,
+      "page": 205,
+      "juz": [
+        {
+          "index": 16,
+          "verse": {
+            "start": "1",
+            "end": "98"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Mecca",
+      "placeAr": "مكة المكرمة",
+      "type": "1",
+      "typeAr": "مكية",
+      "count": 135,
+      "title": "Ta-Ha",
+      "titleAr": "طه",
+      "index": 20,
+      "page": 312,
+      "juz": [
+        {
+          "index": 16,
+          "verse": {
+            "start": "1",
+            "end": "135"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Mecca",
+      "placeAr": "مكة المكرمة",
+      "type": "1",
+      "typeAr": "مكية",
+      "count": 112,
+      "title": "Al-Anbiya",
+      "titleAr": "الأنبياء",
+      "index": 21,
+      "page": 322,
+      "juz": [
+        {
+          "index": 17,
+          "verse": {
+            "start": "1",
+            "end": "112"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Medina",
+      "placeAr": "المدينة المنورة",
+      "type": "2",
+      "typeAr": "مدنية",
+      "count": 78,
+      "title": "Al-Hajj",
+      "titleAr": "الحج",
+      "index": 22,
+      "page": 332,
+      "juz": [
+        {
+          "index": 17,
+          "verse": {
+            "start": "1",
+            "end": "78"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Mecca",
+      "placeAr": "مكة المكرمة",
+      "type": "1",
+      "typeAr": "مكية",
+      "count": 118,
+      "title": "Al-Muminun",
+      "titleAr": "المؤمنون",
+      "index": 23,
+      "page": 342,
+      "juz": [
+        {
+          "index": 18,
+          "verse": {
+            "start": "1",
+            "end": "118"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Medina",
+      "placeAr": "المدينة المنورة",
+      "type": "2",
+      "typeAr": "مدنية",
+      "count": 64,
+      "title": "An-Nur",
+      "titleAr": "النور",
+      "index": 24,
+      "page": 350,
+      "juz": [
+        {
+          "index": 18,
+          "verse": {
+            "start": "1",
+            "end": "64"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Mecca",
+      "placeAr": "مكة المكرمة",
+      "type": "1",
+      "typeAr": "مكية",
+      "count": 77,
+      "title": "Al-Furqan",
+      "titleAr": "الفرقان",
+      "index": 25,
+      "page": 359,
+      "juz": [
+        {
+          "index": 18,
+          "verse": {
+            "start": "1",
+            "end": "20"
+          }
+        },
+        {
+          "index": 19,
+          "verse": {
+            "start": "21",
+            "end": "77"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Mecca",
+      "placeAr": "مكة المكرمة",
+      "type": "1",
+      "typeAr": "مكية",
+      "count": 227,
+      "title": "Ash-Shuara",
+      "titleAr": "الشعراء",
+      "index": 26,
+      "page": 367,
+      "juz": [
+        {
+          "index": 19,
+          "verse": {
+            "start": "1",
+            "end": "227"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Mecca",
+      "placeAr": "مكة المكرمة",
+      "type": "1",
+      "typeAr": "مكية",
+      "count": 93,
+      "title": "An-Naml",
+      "titleAr": "النمل",
+      "index": 27,
+      "page": 377,
+      "juz": [
+        {
+          "index": 19,
+          "verse": {
+            "start": "1",
+            "end": "55"
+          }
+        },
+        {
+          "index": 20,
+          "verse": {
+            "start": "56",
+            "end": "93"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Mecca",
+      "placeAr": "مكة المكرمة",
+      "type": "1",
+      "typeAr": "مكية",
+      "count": 88,
+      "title": "Al-Qasas",
+      "titleAr": "القصص",
+      "index": 28,
+      "page": 385,
+      "juz": [
+        {
+          "index": 20,
+          "verse": {
+            "start": "1",
+            "end": "88"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Mecca",
+      "placeAr": "مكة المكرمة",
+      "type": "1",
+      "typeAr": "مكية",
+      "count": 69,
+      "title": "Al-Ankabut",
+      "titleAr": "العنكبوت",
+      "index": 29,
+      "page": 396,
+      "juz": [
+        {
+          "index": 20,
+          "verse": {
+            "start": "1",
+            "end": "45"
+          }
+        },
+        {
+          "index": 21,
+          "verse": {
+            "start": "46",
+            "end": "69"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Mecca",
+      "placeAr": "مكة المكرمة",
+      "type": "1",
+      "typeAr": "مكية",
+      "count": 60,
+      "title": "Ar-Rum",
+      "titleAr": "الروم",
+      "index": 30,
+      "page": 404,
+      "juz": [
+        {
+          "index": 21,
+          "verse": {
+            "start": "1",
+            "end": "60"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Mecca",
+      "placeAr": "مكة المكرمة",
+      "type": "1",
+      "typeAr": "مكية",
+      "count": 34,
+      "title": "Luqman",
+      "titleAr": "لقمان",
+      "index": 31,
+      "page": 411,
+      "juz": [
+        {
+          "index": 21,
+          "verse": {
+            "start": "1",
+            "end": "34"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Mecca",
+      "placeAr": "مكة المكرمة",
+      "type": "1",
+      "typeAr": "مكية",
+      "count": 30,
+      "title": "As-Sajdah",
+      "titleAr": "السجدة",
+      "index": 32,
+      "page": 415,
+      "juz": [
+        {
+          "index": 21,
+          "verse": {
+            "start": "1",
+            "end": "30"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Medina",
+      "placeAr": "المدينة المنورة",
+      "type": "2",
+      "typeAr": "مدنية",
+      "count": 73,
+      "title": "Al-Ahzab",
+      "titleAr": "الأحزاب",
+      "index": 33,
+      "page": 418,
+      "juz": [
+        {
+          "index": 21,
+          "verse": {
+            "start": "1",
+            "end": "30"
+          }
+        },
+        {
+          "index": 22,
+          "verse": {
+            "start": "31",
+            "end": "73"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Mecca",
+      "placeAr": "مكة المكرمة",
+      "type": "1",
+      "typeAr": "مكية",
+      "count": 54,
+      "title": "Saba",
+      "titleAr": "سبأ",
+      "index": 34,
+      "page": 428,
+      "juz": [
+        {
+          "index": 22,
+          "verse": {
+            "start": "1",
+            "end": "54"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Mecca",
+      "placeAr": "مكة المكرمة",
+      "type": "1",
+      "typeAr": "مكية",
+      "count": 45,
+      "title": "Fatir",
+      "titleAr": "فاطر",
+      "index": 35,
+      "page": 434,
+      "juz": [
+        {
+          "index": 22,
+          "verse": {
+            "start": "1",
+            "end": "45"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Mecca",
+      "placeAr": "مكة المكرمة",
+      "type": "1",
+      "typeAr": "مكية",
+      "count": 83,
+      "title": "Yasin",
+      "titleAr": "يس",
+      "index": 36,
+      "page": 440,
+      "juz": [
+        {
+          "index": 22,
+          "verse": {
+            "start": "1",
+            "end": "27"
+          }
+        },
+        {
+          "index": 23,
+          "verse": {
+            "start": "28",
+            "end": "83"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Mecca",
+      "placeAr": "مكة المكرمة",
+      "type": "1",
+      "typeAr": "مكية",
+      "count": 182,
+      "title": "As-Saffat",
+      "titleAr": "الصافات",
+      "index": 37,
+      "page": 446,
+      "juz": [
+        {
+          "index": 23,
+          "verse": {
+            "start": "1",
+            "end": "182"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Mecca",
+      "placeAr": "مكة المكرمة",
+      "type": "1",
+      "typeAr": "مكية",
+      "count": 88,
+      "title": "Sad",
+      "titleAr": "ص",
+      "index": 38,
+      "page": 453,
+      "juz": [
+        {
+          "index": 23,
+          "verse": {
+            "start": "1",
+            "end": "88"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Mecca",
+      "placeAr": "مكة المكرمة",
+      "type": "1",
+      "typeAr": "مكية",
+      "count": 75,
+      "title": "Az-Zumar",
+      "titleAr": "الزمر",
+      "index": 39,
+      "page": 458,
+      "juz": [
+        {
+          "index": 23,
+          "verse": {
+            "start": "1",
+            "end": "31"
+          }
+        },
+        {
+          "index": 24,
+          "verse": {
+            "start": "32",
+            "end": "75"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Mecca",
+      "placeAr": "مكة المكرمة",
+      "type": "1",
+      "typeAr": "مكية",
+      "count": 85,
+      "title": "Ghafir",
+      "titleAr": "غافر",
+      "index": 40,
+      "page": 467,
+      "juz": [
+        {
+          "index": 24,
+          "verse": {
+            "start": "1",
+            "end": "85"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Mecca",
+      "placeAr": "مكة المكرمة",
+      "type": "1",
+      "typeAr": "مكية",
+      "count": 54,
+      "title": "Fussilat",
+      "titleAr": "فصلت",
+      "index": 41,
+      "page": 477,
+      "juz": [
+        {
+          "index": 24,
+          "verse": {
+            "start": "1",
+            "end": "46"
+          }
+        },
+        {
+          "index": 25,
+          "verse": {
+            "start": "47",
+            "end": "54"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Mecca",
+      "placeAr": "مكة المكرمة",
+      "type": "1",
+      "typeAr": "مكية",
+      "count": 53,
+      "title": "Ash-Shura",
+      "titleAr": "الشورى",
+      "index": 42,
+      "page": 483,
+      "juz": [
+        {
+          "index": 25,
+          "verse": {
+            "start": "1",
+            "end": "53"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Mecca",
+      "placeAr": "مكة المكرمة",
+      "type": "1",
+      "typeAr": "مكية",
+      "count": 89,
+      "title": "Az-Zukhruf",
+      "titleAr": "الزخرف",
+      "index": 43,
+      "page": 489,
+      "juz": [
+        {
+          "index": 25,
+          "verse": {
+            "start": "1",
+            "end": "89"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Mecca",
+      "placeAr": "مكة المكرمة",
+      "type": "1",
+      "typeAr": "مكية",
+      "count": 59,
+      "title": "Ad-Dukhan",
+      "titleAr": "الدخان",
+      "index": 44,
+      "page": 496,
+      "juz": [
+        {
+          "index": 25,
+          "verse": {
+            "start": "1",
+            "end": "59"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Mecca",
+      "placeAr": "مكة المكرمة",
+      "type": "1",
+      "typeAr": "مكية",
+      "count": 37,
+      "title": "Al-Jathiya",
+      "titleAr": "الجاثية",
+      "index": 45,
+      "page": 499,
+      "juz": [
+        {
+          "index": 25,
+          "verse": {
+            "start": "1",
+            "end": "37"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Mecca",
+      "placeAr": "مكة المكرمة",
+      "type": "1",
+      "typeAr": "مكية",
+      "count": 35,
+      "title": "Al-Ahqaf",
+      "titleAr": "الأحقاف",
+      "index": 46,
+      "page": 502,
+      "juz": [
+        {
+          "index": 26,
+          "verse": {
+            "start": "1",
+            "end": "35"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Medina",
+      "placeAr": "المدينة المنورة",
+      "type": "2",
+      "typeAr": "مدنية",
+      "count": 38,
+      "title": "Muhammad",
+      "titleAr": "محمد",
+      "index": 47,
+      "page": 507,
+      "juz": [
+        {
+          "index": 26,
+          "verse": {
+            "start": "1",
+            "end": "38"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Medina",
+      "placeAr": "المدينة المنورة",
+      "type": "2",
+      "typeAr": "مدنية",
+      "count": 29,
+      "title": "Al-Fath",
+      "titleAr": "الفتح",
+      "index": 48,
+      "page": 511,
+      "juz": [
+        {
+          "index": 26,
+          "verse": {
+            "start": "1",
+            "end": "29"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Medina",
+      "placeAr": "المدينة المنورة",
+      "type": "2",
+      "typeAr": "مدنية",
+      "count": 18,
+      "title": "Al-Hujurat",
+      "titleAr": "الحجرات",
+      "index": 49,
+      "page": 515,
+      "juz": [
+        {
+          "index": 26,
+          "verse": {
+            "start": "1",
+            "end": "18"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Mecca",
+      "placeAr": "مكة المكرمة",
+      "type": "1",
+      "typeAr": "مكية",
+      "count": 45,
+      "title": "Qaf",
+      "titleAr": "ق",
+      "index": 50,
+      "page": 518,
+      "juz": [
+        {
+          "index": 26,
+          "verse": {
+            "start": "1",
+            "end": "45"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Mecca",
+      "placeAr": "مكة المكرمة",
+      "type": "1",
+      "typeAr": "مكية",
+      "count": 60,
+      "title": "Az-Zariyat",
+      "titleAr": "الذاريات",
+      "index": 51,
+      "page": 520,
+      "juz": [
+        {
+          "index": 26,
+          "verse": {
+            "start": "1",
+            "end": "30"
+          }
+        },
+        {
+          "index": 27,
+          "verse": {
+            "start": "31",
+            "end": "60"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Mecca",
+      "placeAr": "مكة المكرمة",
+      "type": "1",
+      "typeAr": "مكية",
+      "count": 49,
+      "title": "At-Tur",
+      "titleAr": "الطور",
+      "index": 52,
+      "page": 523,
+      "juz": [
+        {
+          "index": 27,
+          "verse": {
+            "start": "1",
+            "end": "49"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Mecca",
+      "placeAr": "مكة المكرمة",
+      "type": "1",
+      "typeAr": "مكية",
+      "count": 62,
+      "title": "An-Najm",
+      "titleAr": "النجم",
+      "index": 53,
+      "page": 526,
+      "juz": [
+        {
+          "index": 27,
+          "verse": {
+            "start": "1",
+            "end": "62"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Mecca",
+      "placeAr": "مكة المكرمة",
+      "type": "1",
+      "typeAr": "مكية",
+      "count": 55,
+      "title": "Al-Qamar",
+      "titleAr": "القمر",
+      "index": 54,
+      "page": 528,
+      "juz": [
+        {
+          "index": 27,
+          "verse": {
+            "start": "1",
+            "end": "55"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Medina",
+      "placeAr": "المدينة المنورة",
+      "type": "2",
+      "typeAr": "مدنية",
+      "count": 78,
+      "title": "Ar-Rahman",
+      "titleAr": "الرحمن",
+      "index": 55,
+      "page": 531,
+      "juz": [
+        {
+          "index": 27,
+          "verse": {
+            "start": "1",
+            "end": "78"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Mecca",
+      "placeAr": "مكة المكرمة",
+      "type": "1",
+      "typeAr": "مكية",
+      "count": 96,
+      "title": "Al-Waqia",
+      "titleAr": "الواقعة",
+      "index": 56,
+      "page": 534,
+      "juz": [
+        {
+          "index": 27,
+          "verse": {
+            "start": "1",
+            "end": "96"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Medina",
+      "placeAr": "المدينة المنورة",
+      "type": "2",
+      "typeAr": "مدنية",
+      "count": 29,
+      "title": "Al-Hadid",
+      "titleAr": "الحديد",
+      "index": 57,
+      "page": 537,
+      "juz": [
+        {
+          "index": 27,
+          "verse": {
+            "start": "1",
+            "end": "29"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Medina",
+      "placeAr": "المدينة المنورة",
+      "type": "2",
+      "typeAr": "مدنية",
+      "count": 22,
+      "title": "Al-Mujadilah",
+      "titleAr": "المجادلة",
+      "index": 58,
+      "page": 542,
+      "juz": [
+        {
+          "index": 28,
+          "verse": {
+            "start": "1",
+            "end": "22"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Medina",
+      "placeAr": "المدينة المنورة",
+      "type": "2",
+      "typeAr": "مدنية",
+      "count": 24,
+      "title": "Al-Hashr",
+      "titleAr": "الحشر",
+      "index": 59,
+      "page": 545,
+      "juz": [
+        {
+          "index": 28,
+          "verse": {
+            "start": "1",
+            "end": "24"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Medina",
+      "placeAr": "المدينة المنورة",
+      "type": "2",
+      "typeAr": "مدنية",
+      "count": 13,
+      "title": "Al-Mumtahinah",
+      "titleAr": "الممتحنة",
+      "index": 60,
+      "page": 549,
+      "juz": [
+        {
+          "index": 28,
+          "verse": {
+            "start": "1",
+            "end": "13"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Medina",
+      "placeAr": "المدينة المنورة",
+      "type": "2",
+      "typeAr": "مدنية",
+      "count": 14,
+      "title": "As-Saff",
+      "titleAr": "الصف",
+      "index": 61,
+      "page": 551,
+      "juz": [
+        {
+          "index": 28,
+          "verse": {
+            "start": "1",
+            "end": "14"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Medina",
+      "placeAr": "المدينة المنورة",
+      "type": "2",
+      "typeAr": "مدنية",
+      "count": 11,
+      "title": "Al-Jumu'ah",
+      "titleAr": "الجمعة",
+      "index": 62,
+      "page": 553,
+      "juz": [
+        {
+          "index": 28,
+          "verse": {
+            "start": "1",
+            "end": "11"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Medina",
+      "placeAr": "المدينة المنورة",
+      "type": "2",
+      "typeAr": "مدنية",
+      "count": 11,
+      "title": "Al-Munafiqun",
+      "titleAr": "المنافقون",
+      "index": 63,
+      "page": 554,
+      "juz": [
+        {
+          "index": 28,
+          "verse": {
+            "start": "1",
+            "end": "11"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Medina",
+      "placeAr": "المدينة المنورة",
+      "type": "2",
+      "typeAr": "مدنية",
+      "count": 18,
+      "title": "At-Taghabun",
+      "titleAr": "التغابن",
+      "index": 64,
+      "page": 556,
+      "juz": [
+        {
+          "index": 28,
+          "verse": {
+            "start": "1",
+            "end": "18"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Medina",
+      "placeAr": "المدينة المنورة",
+      "type": "2",
+      "typeAr": "مدنية",
+      "count": 12,
+      "title": "At-Talaq",
+      "titleAr": "الطلاق",
+      "index": 65,
+      "page": 558,
+      "juz": [
+        {
+          "index": 28,
+          "verse": {
+            "start": "1",
+            "end": "12"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Medina",
+      "placeAr": "المدينة المنورة",
+      "type": "2",
+      "typeAr": "مدنية",
+      "count": 12,
+      "title": "At-Tahrim",
+      "titleAr": "التحريم",
+      "index": 66,
+      "page": 560,
+      "juz": [
+        {
+          "index": 28,
+          "verse": {
+            "start": "1",
+            "end": "12"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Mecca",
+      "placeAr": "مكة المكرمة",
+      "type": "1",
+      "typeAr": "مكية",
+      "count": 30,
+      "title": "Al-Mulk",
+      "titleAr": "الملك",
+      "index": 67,
+      "page": 562,
+      "juz": [
+        {
+          "index": 29,
+          "verse": {
+            "start": "1",
+            "end": "30"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Mecca",
+      "placeAr": "مكة المكرمة",
+      "type": "1",
+      "typeAr": "مكية",
+      "count": 52,
+      "title": "Al-Qalam",
+      "titleAr": "القلم",
+      "index": 68,
+      "page": 564,
+      "juz": [
+        {
+          "index": 29,
+          "verse": {
+            "start": "1",
+            "end": "52"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Mecca",
+      "placeAr": "مكة المكرمة",
+      "type": "1",
+      "typeAr": "مكية",
+      "count": 52,
+      "title": "Al-Haqqah",
+      "titleAr": "الحاقة",
+      "index": 69,
+      "page": 566,
+      "juz": [
+        {
+          "index": 29,
+          "verse": {
+            "start": "1",
+            "end": "52"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Mecca",
+      "placeAr": "مكة المكرمة",
+      "type": "1",
+      "typeAr": "مكية",
+      "count": 44,
+      "title": "Al-Ma'arij",
+      "titleAr": "المعارج",
+      "index": 70,
+      "page": 568,
+      "juz": [
+        {
+          "index": 29,
+          "verse": {
+            "start": "1",
+            "end": "44"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Mecca",
+      "placeAr": "مكة المكرمة",
+      "type": "1",
+      "typeAr": "مكية",
+      "count": 28,
+      "title": "Nuh",
+      "titleAr": "نوح",
+      "index": 71,
+      "page": 570,
+      "juz": [
+        {
+          "index": 29,
+          "verse": {
+            "start": "1",
+            "end": "28"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Mecca",
+      "placeAr": "مكة المكرمة",
+      "type": "1",
+      "typeAr": "مكية",
+      "count": 28,
+      "title": "Al-Jinn",
+      "titleAr": "الجن",
+      "index": 72,
+      "page": 572,
+      "juz": [
+        {
+          "index": 29,
+          "verse": {
+            "start": "1",
+            "end": "28"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Mecca",
+      "placeAr": "مكة المكرمة",
+      "type": "1",
+      "typeAr": "مكية",
+      "count": 20,
+      "title": "Al-Muzzammil",
+      "titleAr": "المزمل",
+      "index": 73,
+      "page": 574,
+      "juz": [
+        {
+          "index": 29,
+          "verse": {
+            "start": "1",
+            "end": "20"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Mecca",
+      "placeAr": "مكة المكرمة",
+      "type": "1",
+      "typeAr": "مكية",
+      "count": 56,
+      "title": "Al-Muddaththir",
+      "titleAr": "المدثر",
+      "index": 74,
+      "page": 575,
+      "juz": [
+        {
+          "index": 29,
+          "verse": {
+            "start": "1",
+            "end": "56"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Mecca",
+      "placeAr": "مكة المكرمة",
+      "type": "1",
+      "typeAr": "مكية",
+      "count": 40,
+      "title": "Al-Qiyamah",
+      "titleAr": "القيامة",
+      "index": 75,
+      "page": 577,
+      "juz": [
+        {
+          "index": 29,
+          "verse": {
+            "start": "1",
+            "end": "40"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Medina",
+      "placeAr": "المدينة المنورة",
+      "type": "2",
+      "typeAr": "مدنية",
+      "count": 31,
+      "title": "Al-Insan",
+      "titleAr": "الإنسان",
+      "index": 76,
+      "page": 578,
+      "juz": [
+        {
+          "index": 29,
+          "verse": {
+            "start": "1",
+            "end": "31"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Mecca",
+      "placeAr": "مكة المكرمة",
+      "type": "1",
+      "typeAr": "مكية",
+      "count": 50,
+      "title": "Al-Mursalat",
+      "titleAr": "المرسلات",
+      "index": 77,
+      "page": 580,
+      "juz": [
+        {
+          "index": 29,
+          "verse": {
+            "start": "1",
+            "end": "50"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Mecca",
+      "placeAr": "مكة المكرمة",
+      "type": "1",
+      "typeAr": "مكية",
+      "count": 40,
+      "title": "An-Naba",
+      "titleAr": "النبأ",
+      "index": 78,
+      "page": 582,
+      "juz": [
+        {
+          "index": 30,
+          "verse": {
+            "start": "1",
+            "end": "40"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Mecca",
+      "placeAr": "مكة المكرمة",
+      "type": "1",
+      "typeAr": "مكية",
+      "count": 46,
+      "title": "An-Naziat",
+      "titleAr": "النازعات",
+      "index": 79,
+      "page": 583,
+      "juz": [
+        {
+          "index": 30,
+          "verse": {
+            "start": "1",
+            "end": "46"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Mecca",
+      "placeAr": "مكة المكرمة",
+      "type": "1",
+      "typeAr": "مكية",
+      "count": 42,
+      "title": "Abasa",
+      "titleAr": "عبس",
+      "index": 80,
+      "page": 585,
+      "juz": [
+        {
+          "index": 30,
+          "verse": {
+            "start": "1",
+            "end": "42"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Mecca",
+      "placeAr": "مكة المكرمة",
+      "type": "1",
+      "typeAr": "مكية",
+      "count": 29,
+      "title": "At-Takwir",
+      "titleAr": "التكوير",
+      "index": 81,
+      "page": 586,
+      "juz": [
+        {
+          "index": 30,
+          "verse": {
+            "start": "1",
+            "end": "29"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Mecca",
+      "placeAr": "مكة المكرمة",
+      "type": "1",
+      "typeAr": "مكية",
+      "count": 19,
+      "title": "Al-Infitar",
+      "titleAr": "الإنفطار",
+      "index": 82,
+      "page": 587,
+      "juz": [
+        {
+          "index": 30,
+          "verse": {
+            "start": "1",
+            "end": "19"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Mecca",
+      "placeAr": "مكة المكرمة",
+      "type": "1",
+      "typeAr": "مكية",
+      "count": 36,
+      "title": "Al-Mutaffifin",
+      "titleAr": "المطففين",
+      "index": 83,
+      "page": 587,
+      "juz": [
+        {
+          "index": 30,
+          "verse": {
+            "start": "1",
+            "end": "36"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Mecca",
+      "placeAr": "مكة المكرمة",
+      "type": "1",
+      "typeAr": "مكية",
+      "count": 25,
+      "title": "Al-Inshiqaq",
+      "titleAr": "الإنشقاق",
+      "index": 84,
+      "page": 589,
+      "juz": [
+        {
+          "index": 30,
+          "verse": {
+            "start": "1",
+            "end": "25"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Mecca",
+      "placeAr": "مكة المكرمة",
+      "type": "1",
+      "typeAr": "مكية",
+      "count": 22,
+      "title": "Al-Buruj",
+      "titleAr": "البروج",
+      "index": 85,
+      "page": 590,
+      "juz": [
+        {
+          "index": 30,
+          "verse": {
+            "start": "1",
+            "end": "22"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Mecca",
+      "placeAr": "مكة المكرمة",
+      "type": "1",
+      "typeAr": "مكية",
+      "count": 17,
+      "title": "At-Tariq",
+      "titleAr": "الطارق",
+      "index": 86,
+      "page": 591,
+      "juz": [
+        {
+          "index": 30,
+          "verse": {
+            "start": "1",
+            "end": "17"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Mecca",
+      "placeAr": "مكة المكرمة",
+      "type": "1",
+      "typeAr": "مكية",
+      "count": 19,
+      "title": "Al-Ala",
+      "titleAr": "الأعلى",
+      "index": 87,
+      "page": 591,
+      "juz": [
+        {
+          "index": 30,
+          "verse": {
+            "start": "1",
+            "end": "19"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Mecca",
+      "placeAr": "مكة المكرمة",
+      "type": "1",
+      "typeAr": "مكية",
+      "count": 26,
+      "title": "Al-Ghashiyah",
+      "titleAr": "الغاشية",
+      "index": 88,
+      "page": 592,
+      "juz": [
+        {
+          "index": 30,
+          "verse": {
+            "start": "1",
+            "end": "26"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Mecca",
+      "placeAr": "مكة المكرمة",
+      "type": "1",
+      "typeAr": "مكية",
+      "count": 30,
+      "title": "Al-Fajr",
+      "titleAr": "الفجر",
+      "index": 89,
+      "page": 593,
+      "juz": [
+        {
+          "index": 30,
+          "verse": {
+            "start": "1",
+            "end": "30"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Mecca",
+      "placeAr": "مكة المكرمة",
+      "type": "1",
+      "typeAr": "مكية",
+      "count": 20,
+      "title": "Al-Balad",
+      "titleAr": "البلد",
+      "index": 90,
+      "page": 594,
+      "juz": [
+        {
+          "index": 30,
+          "verse": {
+            "start": "1",
+            "end": "20"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Mecca",
+      "placeAr": "مكة المكرمة",
+      "type": "1",
+      "typeAr": "مكية",
+      "count": 15,
+      "title": "Ash-Shams",
+      "titleAr": "الشمس",
+      "index": 91,
+      "page": 595,
+      "juz": [
+        {
+          "index": 30,
+          "verse": {
+            "start": "1",
+            "end": "15"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Mecca",
+      "placeAr": "مكة المكرمة",
+      "type": "1",
+      "typeAr": "مكية",
+      "count": 21,
+      "title": "Al-Lail",
+      "titleAr": "الليل",
+      "index": 92,
+      "page": 595,
+      "juz": [
+        {
+          "index": 30,
+          "verse": {
+            "start": "1",
+            "end": "21"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Mecca",
+      "placeAr": "مكة المكرمة",
+      "type": "1",
+      "typeAr": "مكية",
+      "count": 11,
+      "title": "Ad-Duha",
+      "titleAr": "الضحى",
+      "index": 93,
+      "page": 596,
+      "juz": [
+        {
+          "index": 30,
+          "verse": {
+            "start": "1",
+            "end": "11"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Mecca",
+      "placeAr": "مكة المكرمة",
+      "type": "1",
+      "typeAr": "مكية",
+      "count": 8,
+      "title": "Ash-Sharh",
+      "titleAr": "الشرح",
+      "index": 94,
+      "page": 596,
+      "juz": [
+        {
+          "index": 30,
+          "verse": {
+            "start": "1",
+            "end": "8"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Mecca",
+      "placeAr": "مكة المكرمة",
+      "type": "1",
+      "typeAr": "مكية",
+      "count": 8,
+      "title": "At-Tin",
+      "titleAr": "التين",
+      "index": 95,
+      "page": 597,
+      "juz": [
+        {
+          "index": 30,
+          "verse": {
+            "start": "1",
+            "end": "8"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Mecca",
+      "placeAr": "مكة المكرمة",
+      "type": "1",
+      "typeAr": "مكية",
+      "count": 19,
+      "title": "Al-Alaq",
+      "titleAr": "العلق",
+      "index": 96,
+      "page": 597,
+      "juz": [
+        {
+          "index": 30,
+          "verse": {
+            "start": "1",
+            "end": "19"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Mecca",
+      "placeAr": "مكة المكرمة",
+      "type": "1",
+      "typeAr": "مكية",
+      "count": 5,
+      "title": "Al-Qadr",
+      "titleAr": "القدر",
+      "index": 97,
+      "page": 598,
+      "juz": [
+        {
+          "index": 30,
+          "verse": {
+            "start": "1",
+            "end": "5"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Medina",
+      "placeAr": "المدينة المنورة",
+      "type": "2",
+      "typeAr": "مدنية",
+      "count": 8,
+      "title": "Al-Bayinah",
+      "titleAr": "البينة",
+      "index": 98,
+      "page": 598,
+      "juz": [
+        {
+          "index": 30,
+          "verse": {
+            "start": "1",
+            "end": "8"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Medina",
+      "placeAr": "المدينة المنورة",
+      "type": "2",
+      "typeAr": "مدنية",
+      "count": 8,
+      "title": "Az-Zalzalah",
+      "titleAr": "الزلزلة",
+      "index": 99,
+      "page": 599,
+      "juz": [
+        {
+          "index": 30,
+          "verse": {
+            "start": "1",
+            "end": "8"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Mecca",
+      "placeAr": "مكة المكرمة",
+      "type": "1",
+      "typeAr": "مكية",
+      "count": 11,
+      "title": "Al-Adiyat",
+      "titleAr": "العاديات",
+      "index": 100,
+      "page": 599,
+      "juz": [
+        {
+          "index": 30,
+          "verse": {
+            "start": "1",
+            "end": "11"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Mecca",
+      "placeAr": "مكة المكرمة",
+      "type": "1",
+      "typeAr": "مكية",
+      "count": 11,
+      "title": "Al-Qariah",
+      "titleAr": "القارعة",
+      "index": 101,
+      "page": 600,
+      "juz": [
+        {
+          "index": 30,
+          "verse": {
+            "start": "1",
+            "end": "11"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Mecca",
+      "placeAr": "مكة المكرمة",
+      "type": "1",
+      "typeAr": "مكية",
+      "count": 8,
+      "title": "Al-Takathur",
+      "titleAr": "التكاثر",
+      "index": 102,
+      "page": 600,
+      "juz": [
+        {
+          "index": 30,
+          "verse": {
+            "start": "1",
+            "end": "8"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Mecca",
+      "placeAr": "مكة المكرمة",
+      "type": "1",
+      "typeAr": "مكية",
+      "count": 3,
+      "title": "Al-Asr",
+      "titleAr": "العصر",
+      "index": 103,
+      "page": 601,
+      "juz": [
+        {
+          "index": 30,
+          "verse": {
+            "start": "1",
+            "end": "3"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Mecca",
+      "placeAr": "مكة المكرمة",
+      "type": "1",
+      "typeAr": "مكية",
+      "count": 9,
+      "title": "Al-Humazah",
+      "titleAr": "الهمزة",
+      "index": 104,
+      "page": 601,
+      "juz": [
+        {
+          "index": 30,
+          "verse": {
+            "start": "1",
+            "end": "9"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Mecca",
+      "placeAr": "مكة المكرمة",
+      "type": "1",
+      "typeAr": "مكية",
+      "count": 5,
+      "title": "Al-Fil",
+      "titleAr": "الفيل",
+      "index": 105,
+      "page": 601,
+      "juz": [
+        {
+          "index": 30,
+          "verse": {
+            "start": "1",
+            "end": "5"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Mecca",
+      "placeAr": "مكة المكرمة",
+      "type": "1",
+      "typeAr": "مكية",
+      "count": 4,
+      "title": "Quraish",
+      "titleAr": "قريش",
+      "index": 106,
+      "page": 602,
+      "juz": [
+        {
+          "index": 30,
+          "verse": {
+            "start": "1",
+            "end": "4"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Mecca",
+      "placeAr": "مكة المكرمة",
+      "type": "1",
+      "typeAr": "مكية",
+      "count": 7,
+      "title": "Al-Ma'un",
+      "titleAr": "الماعون",
+      "index": 107,
+      "page": 602,
+      "juz": [
+        {
+          "index": 30,
+          "verse": {
+            "start": "1",
+            "end": "7"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Mecca",
+      "placeAr": "مكة المكرمة",
+      "type": "1",
+      "typeAr": "مكية",
+      "count": 3,
+      "title": "Al-Kauthar",
+      "titleAr": "الكوثر",
+      "index": 108,
+      "page": 602,
+      "juz": [
+        {
+          "index": 30,
+          "verse": {
+            "start": "1",
+            "end": "3"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Mecca",
+      "placeAr": "مكة المكرمة",
+      "type": "1",
+      "typeAr": "مكية",
+      "count": 6,
+      "title": "Al-Kafirun",
+      "titleAr": "الكافرون",
+      "index": 109,
+      "page": 603,
+      "juz": [
+        {
+          "index": 30,
+          "verse": {
+            "start": "1",
+            "end": "6"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Medina",
+      "placeAr": "المدينة المنورة",
+      "type": "2",
+      "typeAr": "مدنية",
+      "count": 3,
+      "title": "An-Nasr",
+      "titleAr": "النصر",
+      "index": 110,
+      "page": 603,
+      "juz": [
+        {
+          "index": 30,
+          "verse": {
+            "start": "1",
+            "end": "3"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Mecca",
+      "placeAr": "مكة المكرمة",
+      "type": "1",
+      "typeAr": "مكية",
+      "count": 5,
+      "title": "Al-Masad",
+      "titleAr": "المسد",
+      "index": 111,
+      "page": 603,
+      "juz": [
+        {
+          "index": 30,
+          "verse": {
+            "start": "1",
+            "end": "5"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Mecca",
+      "placeAr": "مكة المكرمة",
+      "type": "1",
+      "typeAr": "مكية",
+      "count": 4,
+      "title": "Al-Ikhlas",
+      "titleAr": "الإخلاص",
+      "index": 112,
+      "page": 604,
+      "juz": [
+        {
+          "index": 30,
+          "verse": {
+            "start": "1",
+            "end": "4"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Mecca",
+      "placeAr": "مكة المكرمة",
+      "type": "1",
+      "typeAr": "مكية",
+      "count": 5,
+      "title": "Al-Falaq",
+      "titleAr": "الفلق",
+      "index": 113,
+      "page": 604,
+      "juz": [
+        {
+          "index": 30,
+          "verse": {
+            "start": "1",
+            "end": "5"
+          }
+        }
+      ]
+    },
+    {
+      "place": "Mecca",
+      "placeAr": "مكة المكرمة",
+      "type": "1",
+      "typeAr": "مكية",
+      "count": 6,
+      "title": "An-Nas",
+      "titleAr": "الناس",
+      "index": 114,
+      "page": 604,
+      "juz": [
+        {
+          "index": 30,
+          "verse": {
+            "start": "1",
+            "end": "6"
+          }
+        }
+      ]
+    }
+  ]
+}
